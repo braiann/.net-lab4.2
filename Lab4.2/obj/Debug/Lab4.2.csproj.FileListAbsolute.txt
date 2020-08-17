@@ -1,0 +1,9 @@
+C:\Users\Braian\source\repos\Lab4.2\Lab4.2\bin\Debug\agenda.txt
+C:\Users\Braian\source\repos\Lab4.2\Lab4.2\bin\Debug\agenda.xml
+C:\Users\Braian\source\repos\Lab4.2\Lab4.2\bin\Debug\Lab4.2.exe.config
+C:\Users\Braian\source\repos\Lab4.2\Lab4.2\bin\Debug\Lab4.2.exe
+C:\Users\Braian\source\repos\Lab4.2\Lab4.2\bin\Debug\Lab4.2.pdb
+C:\Users\Braian\source\repos\Lab4.2\Lab4.2\obj\Debug\Lab4.2.csprojAssemblyReference.cache
+C:\Users\Braian\source\repos\Lab4.2\Lab4.2\obj\Debug\Lab4.2.csproj.CoreCompileInputs.cache
+C:\Users\Braian\source\repos\Lab4.2\Lab4.2\obj\Debug\Lab4.2.exe
+C:\Users\Braian\source\repos\Lab4.2\Lab4.2\obj\Debug\Lab4.2.pdb
